@@ -1,0 +1,11 @@
+.f{
+	position: absolute;
+	height:1500px;
+	width:1500px;
+	top:20px;
+	left:20px;
+	background: lightcyan;
+	font-size: 60px;
+	color: black;
+	border: solid 5px black;
+}
